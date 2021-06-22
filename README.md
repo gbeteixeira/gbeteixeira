@@ -6,7 +6,7 @@
 <br>
 
 > "*I don't ever give up. I'd have to be dead or completely incapacitated.*" - Elon Musk
----
+ ##
  <div>
   <a href="https://github.com/gbeteixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbeteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
