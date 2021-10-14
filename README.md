@@ -4,7 +4,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+-+End+Developer+;PHP%20|%20MYSQL%20|%20JS%20;Never%20stop%20to%20learning&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center"> My name is <strong>Gabriel</strong>, I'm 17 years old and I'm completely passionate about technology. I like to Code, Innovate and Experiment. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and knowledge.</h4>
 <br>
 
 ## 🔥 Streak Stats
@@ -77,7 +77,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/21hzg3xuhxdqlw6f37uzapbwi)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/21hzg3xuhxdqlw6f37uzapbwi)
 
 ---
 
