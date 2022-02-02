@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Gabriel Teixeira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+-+End+Developer+;PHP%20|%20MYSQL%20|%20JS%20;Never%20stop%20to%20learning&center=true&width=500&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+-+Stack+Developer+;PHP%20|%20NODE%20|%20REACT%20|%20REACT%20NATIVE%20|%20MYSQL%20|%20JS%20;Never%20stop%20to%20learning&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center"> My name is <strong>Gabriel</strong>, I'm 17 years old and I'm completely passionate about technology. I like to Code, Innovate and Experiment. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and knowledge.</h4>
@@ -71,19 +71,9 @@
 
 
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/21hzg3xuhxdqlw6f37uzapbwi)
-
----
-
 <img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=gbeteixeira&repo=gbeteixeira&countColorcountColor&countColor=0e75b6"/>
 
 
 Credit: [Bgstatic](https://github.com/Bgstatic)
 
-Last Edited on: 14/10/2021
+Last Edited on: 02/02/2022
