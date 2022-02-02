@@ -21,12 +21,12 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://nodejs.org/en/">
+    <img alt="NODEJS" src="https://img.shields.io/badge/NODE-000.svg?logo=nodedotjs&logoColor=green"/>
   </a>
 </p>
 
@@ -44,12 +44,20 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/REACT%20-%231572B6.svg?style=flat&logo=react&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://reactnative.dev/" target="_blank"> 
+    <img alt="React Native" src="https://img.shields.io/badge/REACT%20NATIVE%20-%231572B6.svg?style=flat&logo=react&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-000.svg?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
  </p>
@@ -57,8 +65,6 @@
  ### 👉 Software & Tools
  
 <p>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
