@@ -7,10 +7,6 @@
 <h4 align="center"> My name is <strong>Gabriel</strong>, I'm 18 years old and I'm completely passionate about technology. I like to Code, Innovate and Experiment. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and knowledge.</h4>
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gbeteixeira&theme=algolia" alt="gbeteixeira"  /></p>
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
